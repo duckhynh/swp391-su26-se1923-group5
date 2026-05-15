@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="AIStudyHub.API/AIStudyHub.API.csproj" />
+  <Project Path="AIStudyHub.BLL/AIStudyHub.BLL.csproj" />
+  <Project Path="AIStudyHub.DAL/AIStudyHub.DAL.csproj" />
+  <Project Path="AIStudyHub.Shared/AIStudyHub.Shared.csproj" />
+  <Project Path="AIStudyHub.Tests/AIStudyHub.Tests.csproj" />
+</Solution>
